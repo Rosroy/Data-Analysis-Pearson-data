@@ -1,6 +1,6 @@
 ---
 title: 'Pearson Data Set'
-author: "Purba Roy"
+author: "Roshni Roy"
 ---
 
 
